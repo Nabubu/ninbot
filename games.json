@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Celeste",
+    "price": 4.99,
+    "region": "US",
+    "url": "https://example.com/celeste"
+  },
+  {
+    "title": "Hollow Knight",
+    "price": 14.99,
+    "region": "US",
+    "url": "https://example.com/hollow"
+  }
+]
